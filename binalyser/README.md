@@ -7,4 +7,4 @@ This package provides an interactive binning tool using Streamlit for statistica
 You can install this package using pip:
 
 ```bash
-pip install git+https://github.com/ivanpastr/binalyser.git
+pip install git+https://github.com/ivanpast/binalyser.git
